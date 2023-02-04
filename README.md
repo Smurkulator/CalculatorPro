@@ -11,8 +11,8 @@ A powerful and user-friendly scientific calculator that allows you to perform a 
 
 💻 **Installation**
 You can install this script by cloning the repository to your local machine:
-- <pre> git clone https://github.com/VoidDaDev/CalculatorPro/ </pre>
-- <pre> cd CalculatorPro <pre>
+- <pre> git clone https://github.com/VoidDaDev/CalculatorPro/ 
+ cd CalculatorPro <pre>
 
 🔨 **Usage**
 To run the script, open your terminal and navigate to the repository directory and run the following command:
