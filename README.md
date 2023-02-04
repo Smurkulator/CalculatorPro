@@ -1,4 +1,4 @@
-🧮 **Advanced Scientific Calculator with History 📈
+🧮 **Advanced Scientific Calculator with History** 📈
 
 A powerful and user-friendly scientific calculator that allows you to perform a wide range of mathematical operations and keeps a record of your calculations. Built using Python, it is capable of handling complex mathematical calculations with ease.
 
