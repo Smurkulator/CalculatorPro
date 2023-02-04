@@ -11,12 +11,12 @@ A powerful and user-friendly scientific calculator that allows you to perform a 
 
 💻 **Installation**
 You can install this script by cloning the repository to your local machine:
-- ``sh``git clone https://github.com/VoidDaDev/CalculatorPro/
-- cd CalculatorPro
+- ```git clone https://github.com/VoidDaDev/CalculatorPro/``
+- ``cd CalculatorPro``
 
 🔨 **Usage**
 To run the script, open your terminal and navigate to the repository directory and run the following command:
-- python CalcPro.py
+- ``python CalcPro.py``
 
 🤝 **Contributing**
 Contributions are welcome! If you have any ideas or suggestions, feel free to open an issue or make a pull request.
